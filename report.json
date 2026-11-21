@@ -1,0 +1,5 @@
+{
+  "message": "I closed the register and the shift shows Closed, but no closeout receipt came out.",
+  "context": "The register has a sale receipt template and no custom closeout template.",
+  "expected": "The shift closes and the app generates a default closeout receipt with the shift ID and sale count."
+}
